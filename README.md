@@ -7,3 +7,6 @@ source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6707567/
 
 source: https://pubmed.ncbi.nlm.nih.gov/31867417/
 - https://scholar.cu.edu.eg/?q=afahmy/pages/dataset (BUSI Dataset, with gt)
+
+source: https://www.sciencedirect.com/science/article/abs/pii/S037847541930312X?via%3Dihub
+- http://onlinemedicalimages.com/index.php/en/site-map
