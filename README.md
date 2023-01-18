@@ -1,4 +1,5 @@
-# Breast-US-datasets
+Breast
+---
 
 source: Rodrigues, Paulo Sergio (2017), “Breast Ultrasound Image”,
 - Breast US imgs: https://data.mendeley.com/datasets/wmy84gzngw/1
@@ -24,3 +25,12 @@ source: https://pubmed.ncbi.nlm.nih.gov/28859252/
 source: http://mi.eng.cam.ac.uk/research/projects/elasprj/
 - Parties interested in accessing the data should send a message to stradwin-info@eng.cam.ac.uk
 - http://mi.eng.cam.ac.uk/projects/elastography/
+
+
+Thyroid
+---
+- The well-known DDTI
+http://cimalab.unal.edu.co/?lang=en&mod=project&id=31  
+http://cimalab.unal.edu.co/applications/thyroid/thyroid.zip
+- Not sure of the source, as images were labelled by volunteers! may lack precision/experience.
+https://www.kaggle.com/datasets/azouzmaroua/algeria-ultrasound-images-thyroid-dataset-auitd
