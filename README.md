@@ -34,3 +34,5 @@ http://cimalab.unal.edu.co/?lang=en&mod=project&id=31
 http://cimalab.unal.edu.co/applications/thyroid/thyroid.zip
 - Not sure of the source, as images were labelled by volunteers! may lack precision/experience.
 https://www.kaggle.com/datasets/azouzmaroua/algeria-ultrasound-images-thyroid-dataset-auitd
+- US cases for various organs
+https://www.ultrasoundcases.info/
