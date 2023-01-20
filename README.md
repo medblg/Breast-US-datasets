@@ -5,7 +5,7 @@ source: Rodrigues, Paulo Sergio (2017), “Breast Ultrasound Image”,
 - Breast US imgs: https://data.mendeley.com/datasets/wmy84gzngw/1
 - 250 breast cancer images, 100 benign and 150 malignant
 
-https://www.ultrasoundcases.info/cases/breast-and-axilla/benign-lesions/
+https://www.ultrasoundcases.info/cases/breast-and-axilla/benign-lesions/. 
 https://www.ultrasoundcases.info/cases/breast-and-axilla/malignant-breast-lesions/
 
 source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6707567/
